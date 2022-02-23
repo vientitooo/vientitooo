@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David
+- 👀 I’m interested in programing and technology
+- 🌱 I’m currently learning to code
+- 💞️ I’m looking to collaborate on... anything what i can learn from (i'm a newbie so idk :p)
